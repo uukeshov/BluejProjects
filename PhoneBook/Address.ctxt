@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Address()
+comment1.params=adress
+comment1.target=void\ setAdress(java.lang.String)
+comment2.params=counter
+comment2.target=java.lang.String\ getAdress(int)
+numComments=3
